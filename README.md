@@ -23,4 +23,10 @@ Each row represents a 'ride', and contain a combination of time, location, and u
 
 ## Key Insights for Presentation
 
-For the presentation, I would focus on time/day and membership.
+For the presentation, I would focus on time/day and membership, in this order:
+
+* Distribution of ride start times - what are the peak times that people start rides?
+* User type by rides - in what proportion are the user types represented (customer vs subscriber)?
+* Average ride duration by user type - does one user type ride longer than the other?
+* Duration by day of week and hour of day: customer vs subscriber - Given any differences in duration for customers and subscribers, do they share any trends or distinctions by week and time of day?
+* Top riding times by day of week and hour of day: customer vs subscriber - Given any trends in peak times to start rides, are they shared or distinct with the user types?
