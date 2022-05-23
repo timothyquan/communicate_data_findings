@@ -1,6 +1,8 @@
 # Ford GoBike Data Exploration
 
-## by Timothy Lee QUan
+## by Timothy Lee Quan
+
+![Ford GoBike](https://icdn.digitaltrends.com/image/digitaltrends/ford-gobike.jpg)
 
 ## Dataset
 
