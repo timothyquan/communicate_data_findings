@@ -2,7 +2,7 @@
 
 ## by Timothy Lee Quan
 
-![Ford GoBike](https://icdn.digitaltrends.com/image/digitaltrends/ford-gobike.jpg)
+![Ford GoBike](https://hoodwork-production.s3.amazonaws.com/uploads/story/image/37523/Ford_GoBikes.jpg)
 
 ## Dataset
 
